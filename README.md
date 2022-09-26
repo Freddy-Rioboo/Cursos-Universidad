@@ -6,10 +6,11 @@ The main funtionality of this project is read, add, update and delete curses pre
 
 ## What does it has?
 
-This aplication has, and Admin panel builded with an super user and 2 models registered "Curso" "Docente".
+It is a Responsing Desing in the frontend. This aplication has, and Admin panel builded with an super user and 2 models registered "Curso" "Docente".
 All CRUD operations was wrote using Django's ORM to interec with the database.
 The views, was created as a functions but  also there is a view builded as a class.
 ALl models was wrote as a class ans about templates, I used some code from Bootstrap, Font Awesome, Google Font, basic javaScript code and SweetAlert.
+It is a Responsing Desing.
 
 ## Resumeing
 As I mentione
