@@ -2,9 +2,9 @@
 I developed this project using django Framework and PostgreSQL as a database. 
 ![imagenes PostgreSQL (1)](https://user-images.githubusercontent.com/111468101/192372631-e54b505d-679b-4de4-9c08-be2859c4f0b6.png)
 
-## main funtinality
+## main functinality
 
-The main funtionality of this project is read, add, update and delete curses pretending that this is an aplication for a University.
+The main functionality of this project is read, add, update and delete curses pretending that this is an aplication for a University.
 
 ## What does it has?
 
