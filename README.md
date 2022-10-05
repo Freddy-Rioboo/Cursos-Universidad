@@ -4,12 +4,12 @@ I developed this project using django Framework and PostgreSQL as a database.
 
 ## main functinality
 
-The main functionality of this project is read, add, update and delete curses pretending that this is an aplication for a University.
+I made this project to apply all what I learned in my Django curse, for this reason I create this web app. The main functionality of this project is read, add, update and delete curses pretending that this is an aplication for a University. 
 
 ## What does it has?
 
 It is a Responsive Design in the frontend. This aplication has, and Admin panel builded with an super user and 2 models registered "Curso" "Docente".
-All CRUD operations was wrote using Django's ORM to interec with the database.
+All CRUD operations was wrote using Django's ORM to interec with the database. But also I can share information through the API that I inserted. Actually, you may do CRUD operations through tha API. 
 The views, was created as a functions but  also there is a view builded as a class.
 ALl models was wrote as a class ans about templates, I used some code from Bootstrap, Font Awesome, Google Font, basic javaScript code and SweetAlert.
 It is a Responsing Desing.
@@ -33,3 +33,6 @@ d, this is a Basic where I learned and apply mainly, CRUD operations using djang
 
 ## Database, data Confirmation
 ![imagenes PostgreSQL (6)](https://user-images.githubusercontent.com/111468101/192373250-a4dde2c1-e015-4cc1-b7f2-63439cf2bd40.png)
+
+## Rest API (CRUD operations)
+![Presentación sin título (2)](https://user-images.githubusercontent.com/111468101/194116223-fae29d44-23ee-44dc-a9b5-5525cf5c3edc.png)
