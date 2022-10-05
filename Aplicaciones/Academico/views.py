@@ -124,6 +124,7 @@ class CursoApi(View):
                 }
         return JsonResponse(data)
 
+
     def delete(self, request, id):
         curso = list(Curso.objects.filter(id=id).values())
         if len(curso) > 0:
